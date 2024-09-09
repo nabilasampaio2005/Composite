@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\obj\Debug\net8.0\CompositePadrao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\obj\Debug\net8.0\CompositePadrao.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\obj\Debug\net8.0\CompositePadrao.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\obj\Debug\net8.0\CompositePadrao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\bin\Debug\net8.0\CompositePadrao.exe
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\bin\Debug\net8.0\CompositePadrao.deps.json
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\bin\Debug\net8.0\CompositePadrao.runtimeconfig.json
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\bin\Debug\net8.0\CompositePadrao.dll
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\bin\Debug\net8.0\CompositePadrao.pdb
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\obj\Debug\net8.0\CompositePadrao.dll
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\obj\Debug\net8.0\refint\CompositePadrao.dll
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\obj\Debug\net8.0\CompositePadrao.pdb
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\obj\Debug\net8.0\CompositePadrao.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\CompositePadrao\CompositePadrao\obj\Debug\net8.0\ref\CompositePadrao.dll
